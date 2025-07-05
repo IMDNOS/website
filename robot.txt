@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imdnos.github.io/website/sitemap.xml
